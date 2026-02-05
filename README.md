@@ -68,9 +68,7 @@ All outputs are available in the `outputs` folder.
 The optimized Version 2 output was used to generate a functional and responsive website using Lovable.
 
 Live Website Link:
-👉 https://your-lovable-website-link-here
-
-(Replace this link after generating your website.)
+👉 https://prayagraj-beauty-site.lovable.app
 
 ---
 
