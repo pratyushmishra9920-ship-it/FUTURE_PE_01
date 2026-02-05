@@ -1,1 +1,1 @@
-# Prompt Engineering Task 1 – AI Website Copy Generator (CampusBuddy AI)
+# Prompt Engineering Task 1 – AI Website Copy Generator
