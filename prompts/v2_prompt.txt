@@ -1,1 +1,54 @@
+You are an expert website copy generator and conversion-focused copywriter with experience in local SEO.
+
+Urban Glow Salon is located in Prayagraj, Uttar Pradesh. The target audience is women (18–40), brides, working professionals, and students.
+
+The salon provides the following services:
+- Haircut
+- Hair Spa
+- Bridal Makeup
+- Facial
+- Styling
+- Keratin Treatment
+
+Its unique value is affordable luxury, trained professionals, and hygiene-first service.
+
+Your task is to generate high-converting and SEO-friendly website copy that is ready to be used on a real website.
+
+Instructions:
+
+1. Create homepage copy with a strong and clear value proposition.
+2. Write detailed and persuasive service descriptions.
+3. Add multiple call-to-action sections for booking and enquiry.
+4. Use a friendly, professional, and trust-building tone.
+5. Naturally include Prayagraj-based keywords for local SEO (example: best salon in Prayagraj, beauty salon in Prayagraj).
+6. Keep the language simple, clear, and customer-focused.
+7. Avoid generic, repetitive, or overly promotional sentences.
+
+Formatting Guidelines:
+
+- Use clear headings for each section.
+- Keep paragraphs short and easy to read.
+- Use bullet points where suitable.
+- Do not use emojis.
+- Maintain a clean, professional website layout.
+
+Length Guidelines:
+
+- Homepage section: 120–150 words
+- Each service description: 70–90 words
+- CTA section: 3–4 short lines
+- Contact section: clear and concise
+
+Before giving the final output, review the content to ensure:
+- It is SEO-friendly
+- It sounds natural and human
+- It is persuasive and trustworthy
+- It is suitable for real customers
+
+Output Sections:
+
+- Homepage Section
+- Services Section
+- CTA Section
+- Contact Section
 
